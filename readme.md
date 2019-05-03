@@ -1,4 +1,9 @@
-# Basic log4j use
+# Basic log4j2 use
+**Small description**
+
+This just show how to create a log file based on date and time and have two different output (console/file).
+
+**Things to do:**
 
 * add dependency from maven 
     *  org.apache.logging.log4j:log4j-api:2.11.2
